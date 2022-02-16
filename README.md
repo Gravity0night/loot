@@ -1,3 +1,5 @@
+
+
 # loot
 
 	-Afk FREE(Not being kicked because of afk)	
