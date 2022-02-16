@@ -18,5 +18,6 @@
 Free version
 v0.3
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Gravity0night/loot/main/Q2753EeWbRaFykdDa84.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Gravity0night/loot/main/Q2753EeWbRaFykdDa84.lua"))()
+	
 -- Put this in your executor.
