@@ -16,9 +16,13 @@
 	
 	
 Free version
-v0.3
+v0.3 AutoCollect
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Gravity0night/loot/main/Q2753EeWbRaFykdDa84.lua"))()
+
+v0.1 Egg counter
+
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Gravity0night/loot/main/2whR3fyz.lua"))()
 	
--- Put this in your executor.
+-- Put these in your executor.
 
