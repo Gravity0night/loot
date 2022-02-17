@@ -1,6 +1,6 @@
 
 
-# PSX/Pet Simulator X loot
+# PSX/Pet Simulator X loot / #Egg counter
 
 	-Afk FREE(Not being kicked because of afk)	
 	-Magnet (Loot everything for you just like the game pass)
@@ -21,3 +21,4 @@ v0.3
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Gravity0night/loot/main/Q2753EeWbRaFykdDa84.lua"))()
 	
 -- Put this in your executor.
+
