@@ -1,6 +1,6 @@
 
 
-# PSX/Pet Simulator X loot / #Egg counter
+# PSX/Pet Simulator X loot / Egg counter
 
 	-Afk FREE(Not being kicked because of afk)	
 	-Magnet (Loot everything for you just like the game pass)
