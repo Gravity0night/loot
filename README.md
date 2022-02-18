@@ -16,7 +16,7 @@
 	
 	
 Free version
-v0.3 AutoCollect
+v0.4 AutoCollect
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Gravity0night/loot/main/Q2753EeWbRaFykdDa84.lua"))()
 
